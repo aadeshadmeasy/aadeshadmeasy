@@ -1,8 +1,8 @@
-## Hi, I'm Aadesh 👋
+``## Hi, I'm Aadesh 👋
 
 
-Admeasy Ai 
-Founder & AI Engineer,
+Admeasy Ai, 
+Founder & AI Engineer
 · New Delhi, India
 
 Jul 2026 – Present
@@ -15,7 +15,7 @@ Enabled AI employees to use MCP tools, calling tools, and internal tools while w
 Domain-specialized multi-agent orchestrator that starts operations after input from anomaly detector, without human prompts.
 
 
-Schoolzy Ai
+Schoolzy Ai,
 Co-Founder
 · Indore, India
 
@@ -27,7 +27,7 @@ Pioneered two new patentable methodologies.
 Backend-aware autonomous agentic browser — routes, logic, and DB schema fed to Browse-use + LLM for higher accuracy than DOM-only agents.
 
 
-Admeasy.in
+Admeasy.in,
 Co-founder & CEO
 · Remote + New Delhi, India
 
@@ -37,6 +37,7 @@ LinkedIn for school students — wound down after building brand and team.
 Grew to 70k+ website impressions with a passionate team of 17.
 Managed social media campaigns and webinar marketing.
 Built Admeasy.in as a ready-to-go brand for mentorship and studies.
+``
 
 <!--
 **aadeshadmeasy/aadeshadmeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
