@@ -15,8 +15,8 @@ I build **autonomous AI systems, multi-agent architectures, and AI employees** d
 
 Building **autonomous AI employees for enterprises today, and humanoid robots tomorrow.**
 
--  Pioneering **WorkFold in AWE** — a new approach for making token-heavy multi-agent systems execute more efficiently.
--  Building **Agent Work Environment (AWE)** — an environment where multiple AI employees can simultaneously **plan, work, delegate, critique, and report**.
+-  Pioneering **WorkFold in AWE** : a new approach for making token-heavy multi-agent systems execute more efficiently.
+-  Building **Agent Work Environment (AWE)** : an environment where multiple AI employees can simultaneously **plan, work, delegate, critique, and report**.
 -  Built a **multi-agent orchestrator** with an **anomaly detector loop** for autonomous operations.
 -  Enabled AI employees to work with **MCP tools, internal tools, and external tool calls** while executing objectives.
 -  Building objective-oriented, autonomous **agentic AI systems** capable of operating beyond simple prompt-response workflows.
@@ -57,4 +57,4 @@ Multi-Agent Orchestration    █████████████████
 Agent Work Environment       ██████████████████░░  Advanced
 Model Context Protocol       ██████████████████░░  Advanced
 RAG & Vector Systems         ██████████████████░░  Advanced
-Python                       ███████████████████░  Advanced
+Cursor IDE                   ███████████████████░  Advanced
