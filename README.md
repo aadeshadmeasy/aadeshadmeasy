@@ -1,8 +1,9 @@
 ## Hi, I'm Aadesh 👋
 
-Admeasy Ai
-Founder & AI Engineer
-Admeasy Ai · New Delhi, India
+
+Admeasy Ai 
+Founder & AI Engineer,
+· New Delhi, India
 
 Jul 2026 – Present
 
@@ -12,9 +13,11 @@ Building Agent Work Environment (AWE): multiple AI employees plan, work, delegat
 Built multi-agent orchestrator and anomaly detector loop.
 Enabled AI employees to use MCP tools, calling tools, and internal tools while working — objective-oriented agentic AI.
 Domain-specialized multi-agent orchestrator that starts operations after input from anomaly detector, without human prompts.
+
+
 Schoolzy Ai
 Co-Founder
-Schoolzy Ai · Indore, India
+· Indore, India
 
 May 2026 – Present
 
@@ -22,9 +25,11 @@ Autonomous agentic AI for school administration.
 Generated early revenue and partnered with 3 schools.
 Pioneered two new patentable methodologies.
 Backend-aware autonomous agentic browser — routes, logic, and DB schema fed to Browse-use + LLM for higher accuracy than DOM-only agents.
+
+
 Admeasy.in
 Co-founder & CEO
-Admeasy.in · Remote
+· Remote + New Delhi, India
 
 Mar 2025 – May 2026
 
