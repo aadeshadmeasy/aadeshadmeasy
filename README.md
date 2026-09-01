@@ -1,55 +1,60 @@
-``## Hi, I'm Aadesh 👋
+# Hi, I'm Aadesh 👋
 
+### Founder & AI Engineer · Building Autonomous Agentic AI
 
-Admeasy Ai, 
-Founder & AI Engineer
-· New Delhi, India
+I build **autonomous AI systems, multi-agent architectures, and AI employees** designed to execute real-world work with minimal human intervention.
 
-Jul 2026 – Present
+> **“Enabling non-tech founders to build autonomous AI employees in one prompt.”**
 
-Autonomous AI employees for enterprises today, humanoid robots tomorrow.
-Pioneering WorkFold in AWE — efficient execution for token-heavy multi-agent systems.
-Building Agent Work Environment (AWE): multiple AI employees plan, work, delegate, critique, and report together.
-Built multi-agent orchestrator and anomaly detector loop.
-Enabled AI employees to use MCP tools, calling tools, and internal tools while working — objective-oriented agentic AI.
-Domain-specialized multi-agent orchestrator that starts operations after input from anomaly detector, without human prompts.
+---
 
+## 🚀 What I'm Building
 
-Schoolzy Ai,
-Co-Founder
-· Indore, India
+### Admeasy AI · Founder & AI Engineer
+📍 New Delhi, India · **July 2026 – Present**
 
-May 2026 – Present
+Building **autonomous AI employees for enterprises today, and humanoid robots tomorrow.**
 
-Autonomous agentic AI for school administration.
-Generated early revenue and partnered with 3 schools.
-Pioneered two new patentable methodologies.
-Backend-aware autonomous agentic browser — routes, logic, and DB schema fed to Browse-use + LLM for higher accuracy than DOM-only agents.
+- 🧠 Pioneering **WorkFold in AWE** — a new approach for making token-heavy multi-agent systems execute more efficiently.
+- ⚙️ Building **Agent Work Environment (AWE)** — an environment where multiple AI employees can simultaneously **plan, work, delegate, critique, and report**.
+- 🤖 Built a **multi-agent orchestrator** with an **anomaly detector loop** for autonomous operations.
+- 🔌 Enabled AI employees to work with **MCP tools, internal tools, and external tool calls** while executing objectives.
+- 🎯 Building objective-oriented, autonomous **agentic AI systems** capable of operating beyond simple prompt-response workflows.
 
+---
 
-Admeasy.in,
-Co-founder & CEO
-· Remote + New Delhi, India
+### Schoolzy AI · Co-Founder
+📍 Indore, India · **May 2026 – Present**
 
-Mar 2025 – May 2026
+Building **autonomous agentic AI for school administration**.
 
-LinkedIn for school students — wound down after building brand and team.
-Grew to 70k+ website impressions with a passionate team of 17.
-Managed social media campaigns and webinar marketing.
-Built Admeasy.in as a ready-to-go brand for mentorship and studies.
-``
+- 💰 Generated early revenue and partnered with **3 schools**.
+- 🧪 Pioneered **two patentable methodologies** for autonomous AI systems.
+- 🤖 Built a **domain-specialized multi-agent orchestrator** that can initiate operations from an anomaly detector rather than waiting for a human prompt.
+- 🌐 Built a **backend-aware autonomous agentic browser** designed to overcome limitations of UI/DOM-only agents.
+- 🧩 Fed application **routes, business logic, and database schema** into the browser-agent + LLM system to improve execution accuracy.
 
-<!--
-**aadeshadmeasy/aadeshadmeasy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Admeasy.in · Co-Founder & CEO
+📍 Remote + New Delhi, India · **March 2025 – May 2026**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built **Admeasy.in**, a LinkedIn-style platform for school students.
+
+- 📈 Grew to **70K+ website impressions**.
+- 👥 Built and worked with a passionate **17-member team**.
+- 📣 Managed **social media campaigns and webinar marketing**.
+- 🏗️ Built Admeasy.in into a ready-to-go brand focused on **mentorship and studies**.
+- 🔄 The startup was eventually wound down, with the experience becoming the foundation for my work in AI and autonomous systems.
+
+---
+
+## 🧠 Technical Focus
+
+```text
+Agentic AI Development       ████████████████████  Expert
+Multi-Agent Orchestration    ██████████████████░░  Advanced
+Agent Work Environment       ██████████████████░░  Advanced
+Model Context Protocol       ██████████████████░░  Advanced
+RAG & Vector Systems         ██████████████████░░  Advanced
+Python                       ███████████████████░  Advanced
