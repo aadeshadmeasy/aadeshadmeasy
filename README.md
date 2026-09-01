@@ -1,60 +1,21 @@
-# Hi, I'm Aadesh 👋
+# 💫 About Me:
+# Hi, I'm Aadesh 👋<br><br>### Founder & AI Engineer · Building Autonomous Agentic AI<br><br>I build **autonomous AI systems, multi-agent architectures, and AI employees** designed to execute real-world work with minimal human intervention.<br><br>> **“Enabling non-tech founders to build autonomous AI employees in one prompt.”**<br><br>---<br><br>##  What I'm Building<br><br>### Admeasy AI · Founder & AI Engineer<br>📍 New Delhi, India · **July 2026 – Present**<br><br>Building **autonomous AI employees for enterprises today, and humanoid robots tomorrow.**<br><br>-  Pioneering **WorkFold in AWE** : a new approach for making token-heavy multi-agent systems execute more efficiently.<br>-  Building **Agent Work Environment (AWE)** : an environment where multiple AI employees can simultaneously **plan, work, delegate, critique, and report**.<br>-  Built a **multi-agent orchestrator** with an **anomaly detector loop** for autonomous operations.<br>-  Enabled AI employees to work with **MCP tools, internal tools, and external tool calls** while executing objectives.<br>-  Building objective-oriented, autonomous **agentic AI systems** capable of operating beyond simple prompt-response workflows.<br><br>---<br><br>### Schoolzy AI · Co-Founder<br>📍 Indore, India · **May 2026 – Present**<br><br>Building **autonomous agentic AI for school administration (revenue generating)**.<br><br>-  Generated early revenue and partnered with **3 schools**.<br>-  Pioneered **two patentable methodologies** for autonomous AI systems.<br>-  Built a **domain-specialized multi-agent orchestrator** that can initiate operations from an anomaly detector rather than waiting for a human prompt.<br>-  Built a **backend-aware autonomous agentic browser** designed to overcome limitations of UI/DOM-only agents.<br>-  Fed application **routes, business logic, and database schema** into the browser-agent + LLM system to improve execution accuracy.<br><br>---<br><br>### Admeasy.in · Co-Founder & CEO<br>📍 Remote + New Delhi, India · **March 2025 – May 2026**<br><br>Built **Admeasy.in**, a LinkedIn-style platform for school students.<br><br>-  Grew to **70K+ website impressions**.<br>-  Built and worked with a passionate **17-member team**.<br>-  Managed **social media campaigns and webinar marketing**.<br>-  Built Admeasy.in into a ready-to-go brand focused on **mentorship and studies**.<br>-  The startup was eventually wound down, with the experience becoming the foundation for my work in AI and autonomous systems.<br><br>---<br><br>##  Technical Focus (Non-technical background but love researching on AI, autonomous systems, open-source repos)<br><br>```text<br>Agentic AI Development       ████████████████████  Expert<br>Multi-Agent Orchestration    ██████████████████░░  Advanced<br>Agent Work Environment       ██████████████████░░  Advanced<br>Model Context Protocol       ██████████████████░░  Advanced<br>RAG & Vector Systems         ██████████████████░░  Advanced<br>Cursor IDE                   ███████████████████░  Advanced<br>
 
-### Founder & AI Engineer · Building Autonomous Agentic AI
 
-I build **autonomous AI systems, multi-agent architectures, and AI employees** designed to execute real-world work with minimal human intervention.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadesh.panwar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aadesh-panwar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadesh.panwar@admeasy.in) 
 
-> **“Enabling non-tech founders to build autonomous AI employees in one prompt.”**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aadeshadmeasy&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aadeshadmeasy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadeshadmeasy&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-##  What I'm Building
-
-### Admeasy AI · Founder & AI Engineer
-📍 New Delhi, India · **July 2026 – Present**
-
-Building **autonomous AI employees for enterprises today, and humanoid robots tomorrow.**
-
--  Pioneering **WorkFold in AWE** : a new approach for making token-heavy multi-agent systems execute more efficiently.
--  Building **Agent Work Environment (AWE)** : an environment where multiple AI employees can simultaneously **plan, work, delegate, critique, and report**.
--  Built a **multi-agent orchestrator** with an **anomaly detector loop** for autonomous operations.
--  Enabled AI employees to work with **MCP tools, internal tools, and external tool calls** while executing objectives.
--  Building objective-oriented, autonomous **agentic AI systems** capable of operating beyond simple prompt-response workflows.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aadeshadmeasy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=aadeshadmeasy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Schoolzy AI · Co-Founder
-📍 Indore, India · **May 2026 – Present**
-
-Building **autonomous agentic AI for school administration (revenue generating)**.
-
--  Generated early revenue and partnered with **3 schools**.
--  Pioneered **two patentable methodologies** for autonomous AI systems.
--  Built a **domain-specialized multi-agent orchestrator** that can initiate operations from an anomaly detector rather than waiting for a human prompt.
--  Built a **backend-aware autonomous agentic browser** designed to overcome limitations of UI/DOM-only agents.
--  Fed application **routes, business logic, and database schema** into the browser-agent + LLM system to improve execution accuracy.
-
----
-
-### Admeasy.in · Co-Founder & CEO
-📍 Remote + New Delhi, India · **March 2025 – May 2026**
-
-Built **Admeasy.in**, a LinkedIn-style platform for school students.
-
--  Grew to **70K+ website impressions**.
--  Built and worked with a passionate **17-member team**.
--  Managed **social media campaigns and webinar marketing**.
--  Built Admeasy.in into a ready-to-go brand focused on **mentorship and studies**.
--  The startup was eventually wound down, with the experience becoming the foundation for my work in AI and autonomous systems.
-
----
-
-##  Technical Focus (Non-technical background but love researching on AI, autonomous systems, open-source repos)
-
-```text
-Agentic AI Development       ████████████████████  Expert
-Multi-Agent Orchestration    ██████████████████░░  Advanced
-Agent Work Environment       ██████████████████░░  Advanced
-Model Context Protocol       ██████████████████░░  Advanced
-RAG & Vector Systems         ██████████████████░░  Advanced
-Cursor IDE                   ███████████████████░  Advanced
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
