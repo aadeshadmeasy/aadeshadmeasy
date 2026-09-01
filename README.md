@@ -68,9 +68,7 @@ Multi-Agent Orchestration    █████████████████
 Agent Work Environment       ██████████████████░░  Advanced
 Model Context Protocol       ██████████████████░░  Advanced
 RAG & Vector Systems         ██████████████████░░  Advanced
-Python                       ███████████████████░  Advanced
+Cursor IDE                   ██████████████████░░  Advanced
 
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
