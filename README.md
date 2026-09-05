@@ -60,7 +60,7 @@ Built **Admeasy.in**, a LinkedIn-style platform for school students.
 
 ---
 
-## 🧠 Technical Focus
+##  Technical Focus
 
 ```text
 Agentic AI Development       ████████████████████  Expert
