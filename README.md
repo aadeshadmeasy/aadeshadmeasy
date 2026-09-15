@@ -50,7 +50,7 @@ Building **autonomous agentic AI for school administration**.
 ### Admeasy.in · Co-Founder & CEO
 📍 Remote + New Delhi, India · **March 2025 – May 2026**
 
-Built **Admeasy.in**, a LinkedIn-style platform for school students.
+Built **Admeasy.in**, a LinkedIn-style platform for school students. 
 
 -  Grew to **70K+ website impressions**.
 -  Built and worked with a passionate **17-member team**.
