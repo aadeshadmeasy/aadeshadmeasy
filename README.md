@@ -1,4 +1,4 @@
-# My Github streak is not updating guys! 🙂 please ignore it. 
+# Admeasy-ai is private, Opensource model : Compass
 
 
 ## 🌐 Socials:
