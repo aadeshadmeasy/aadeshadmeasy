@@ -37,6 +37,18 @@ Building **autonomous AI employees for enterprises today, and humanoid robots to
 
 ---
 
+### Compass · Open-Source MCP Tool Ranker
+📍 **September 2026 – Present** · [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aadeshadmeasy/compass/blob/main/LICENSE) · [Live demo](https://compass-self-nu.vercel.app) · [GitHub](https://github.com/aadeshadmeasy/compass)
+
+A tiny, fast **MCP tool ranker**: plain English in, ranked tools out, from candidate sets of tens to thousands of MCP tools. Built for AI agent tool calling.
+
+-  Not an LLM agent loop. Compass learns to *rank* whatever candidates you provide, so routing stays **sub-millisecond locally** and cheap on serverless.
+-  Trained on **600k hard-negative rows** against a **~32k enriched tool catalog**, served on an AWS SageMaker serverless endpoint.
+-  Open-sourced under **Apache 2.0** with a ~10k-tool stratified catalog sample and ~2k public routing trajectories.
+-  Built with Nitish and Divya on AWS SageMaker and Jupyter.
+
+---
+
 ### Schoolzy AI · Co-Founder
 📍 Indore, India · **May 2026 – Present**
 
