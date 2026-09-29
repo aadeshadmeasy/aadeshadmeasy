@@ -1,4 +1,4 @@
-# Admeasy-ai is private, Opensource model : Compass
+# Admeasy-ai is private, Opensource model : [Compass](https://github.com/aadeshadmeasy/compass)
 
 
 ## 🌐 Socials:
