@@ -37,7 +37,7 @@ Building **autonomous AI employees for enterprises today, and humanoid robots to
 
 ---
 
-### Compass · Open-Source MCP Tool Ranker
+### Compass · Open-Source Model
 📍 **September 2026 – Present** · [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aadeshadmeasy/compass/blob/main/LICENSE) · [Live demo](https://compass-self-nu.vercel.app) · [GitHub](https://github.com/aadeshadmeasy/compass)
 
 A tiny, fast **MCP tool ranker**: plain English in, ranked tools out, from candidate sets of tens to thousands of MCP tools. Built for AI agent tool calling.
