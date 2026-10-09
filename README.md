@@ -81,7 +81,7 @@ Built **Admeasy.in**, a LinkedIn-style platform for school students.
 Agentic AI Development       ████████████████████  Expert
 Multi-Agent Orchestration    ██████████████████░░  Advanced
 Agent Work Environment       ██████████████████░░  Advanced
-Model Context Protocol       ██████████████████░░  Advanced
+Langchain                    ██████████████████░░  Advanced
 RAG & Vector Systems         ██████████████████░░  Advanced
 Cursor IDE                   ██████████████████░░  Advanced
 
