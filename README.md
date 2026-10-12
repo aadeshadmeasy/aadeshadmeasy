@@ -1,4 +1,6 @@
-# Admeasy-ai is private, Opensource model : [Compass](https://github.com/aadeshadmeasy/compass)
+# Admeasy-ai is private, Opensource: [Compass](https://github.com/aadeshadmeasy/compass) · [SI Code](https://github.com/aadeshadmeasy/SI-Code)
+
+<a href="https://github.com/aadeshadmeasy/compass"><img src="assets/compass-logo.png" alt="Compass" width="96" /></a> <a href="https://github.com/aadeshadmeasy/SI-Code"><img src="assets/sicode-logo.png" alt="SI Code" width="96" /></a>
 
 
 ## 🌐 Socials:
@@ -38,6 +40,8 @@ Building **autonomous AI employees for enterprises today, and humanoid robots to
 ---
 
 ### Compass · Open-Source Model
+<img src="assets/compass-logo.png" alt="Compass" width="96" />
+
 📍 **September 2026 – Present** · [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/aadeshadmeasy/compass/blob/main/LICENSE) · [Live demo](https://compass-self-nu.vercel.app) · [GitHub](https://github.com/aadeshadmeasy/compass)
 
 A tiny, fast **MCP tool ranker**: plain English in, ranked tools out, from candidate sets of tens to thousands of MCP tools. Built for AI agent tool calling.
@@ -46,6 +50,19 @@ A tiny, fast **MCP tool ranker**: plain English in, ranked tools out, from candi
 -  Trained on **600k hard-negative rows** against a **~32k enriched tool catalog**, served on an AWS SageMaker serverless endpoint.
 -  Open-sourced under **Apache 2.0** with a ~10k-tool stratified catalog sample and ~2k public routing trajectories.
 -  Built with Nitish and Divya on AWS SageMaker and Jupyter.
+
+---
+
+### SI Code · Open-Source AI Code Editor
+<img src="assets/sicode-logo.png" alt="SI Code" width="96" />
+
+📍 **October 2026 – Present** · [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aadeshadmeasy/SI-Code/blob/main/LICENSE.txt) · [Download v0.1.0](https://github.com/aadeshadmeasy/SI-Code/releases/tag/v0.1.0) · [GitHub](https://github.com/aadeshadmeasy/SI-Code)
+
+-  A free, open-source alternative to VS Code and Cursor, built on **Code - OSS**.
+-  **Bring your own key** — OpenAI, Anthropic, Gemini, OpenRouter, Sarvam, and Ollama/OpenAI-compatible.
+-  **AI chat**, **inline edit**, and an **agent mode** that edits across files and runs terminal commands with approval.
+-  Works with **local and remote MCP servers**, including OAuth sign-in.
+-  Builds for **Windows, macOS, and Linux**.
 
 ---
 
