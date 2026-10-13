@@ -56,7 +56,7 @@ A tiny, fast **MCP tool ranker**: plain English in, ranked tools out, from candi
 ### SI Code · Open-Source AI Code Editor
 <img src="assets/sicode-logo.png" alt="SI Code" width="96" />
 
-📍 **October 2026 – Present** · [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aadeshadmeasy/SI-Code/blob/main/LICENSE.txt) · [Download v0.1.0](https://github.com/aadeshadmeasy/SI-Code/releases/tag/v0.1.0) · [GitHub](https://github.com/aadeshadmeasy/SI-Code)
+📍 **October 2026 – Present** · [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aadeshadmeasy/SI-Code/blob/main/LICENSE.txt) · [Download latest](https://github.com/aadeshadmeasy/SI-Code/releases/latest) · [GitHub](https://github.com/aadeshadmeasy/SI-Code)
 
 -  A free, open-source alternative to VS Code and Cursor, built on **Code - OSS**.
 -  **Bring your own key** — OpenAI, Anthropic, Gemini, OpenRouter, Sarvam, and Ollama/OpenAI-compatible.
