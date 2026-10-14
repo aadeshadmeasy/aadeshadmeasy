@@ -1,6 +1,6 @@
 # Admeasy-ai is private, Opensource: [Compass](https://github.com/aadeshadmeasy/compass) · [SI Code](https://github.com/aadeshadmeasy/SI-Code)
 
-<a href="https://github.com/aadeshadmeasy/compass"><img src="assets/compass-logo.png" alt="Compass" width="96" /></a> <a href="https://github.com/aadeshadmeasy/SI-Code"><img src="assets/sicode-logo.png" alt="SI Code" width="96" /></a>
+<img src="assets/admeasy-logo.png" alt="Admeasy AI" width="96" /> <a href="https://github.com/aadeshadmeasy/compass"><img src="assets/compass-logo.png" alt="Compass" width="96" /></a> <a href="https://github.com/aadeshadmeasy/SI-Code"><img src="assets/sicode-logo.png" alt="SI Code" width="96" /></a>
 
 
 ## 🌐 Socials:
@@ -27,6 +27,8 @@ I build **autonomous AI systems, multi-agent architectures, and AI employees** d
 ##  What I'm Building
 
 ### Admeasy AI · Founder & AI Engineer
+<img src="assets/admeasy-logo.png" alt="Admeasy AI" width="96" />
+
 📍 New Delhi, India · **August 2026 – Present**
 
 Building **autonomous AI employees for enterprises today, and humanoid robots tomorrow.**
