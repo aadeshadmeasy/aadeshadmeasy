@@ -24,9 +24,9 @@ I build **autonomous AI systems, multi-agent architectures, and AI employees** d
 
 ---
 
-##  What I'm Building
+##  What I'm Building 
 
-### Admeasy AI · Founder & AI Engineer
+### Admeasy AI · Co-Founder & AI Engineer
 <img src="assets/admeasy-logo.png" alt="Admeasy AI" width="96" />
 
 📍 New Delhi, India · **August 2026 – Present**
