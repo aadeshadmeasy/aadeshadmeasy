@@ -20,7 +20,7 @@
 
 I build **autonomous AI systems, multi-agent architectures, and AI employees** designed to execute real-world work with minimal human intervention.
 
-> **“Enabling non-tech founders to build autonomous AI employees in one prompt.”**
+> **like instinct ai but as distribution autopilot ai for online-present small asian businesses.”**
 
 ---
 
